@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DataModels\Baker\" />
+    <Folder Include="DataModels\Product\" />
+    <Folder Include="DataModels\Ingredient\" />
+    <Folder Include="DataModels\Batch\" />
+    <Folder Include="DataModels\Salary\" />
+    <Folder Include="DataModels\Order\" />
+    <Folder Include="DataModels\Customer\" />
+  </ItemGroup>
+
 </Project>
